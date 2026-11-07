@@ -12,4 +12,4 @@ All failover tests passed. They covered individual LACP member failures, complet
 ## Network Documentation
 
 - [Network Topology and Design](VXLAN-EVPN-Topology.pdf)
-- [Failover and Resiliency Validation — All 12 Tests Passed](VXLAN-EVPN-Failover-Results.pdf)
+- [Failover and Resiliency Validation](VXLAN-EVPN-Failover-Results.pdf)
