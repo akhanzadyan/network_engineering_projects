@@ -69,7 +69,6 @@ All planned failover tests were completed successfully.
 | Automatic FortiGate HA failover | PASS |
 | FortiGate HA session synchronization | PASS |
 | Controlled manual HA failback | PASS |
-The validation demonstrated successful connectivity recovery and redundancy across the fabric, host-access, and firewall layers.
 | End-to-end connectivity following failover | PASS |
 
 The validation demonstrated successful connectivity recovery and redundancy across the fabric, host-access, and firewall layers.
