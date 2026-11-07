@@ -2,7 +2,6 @@
 
 **Data Center Networking | BGP EVPN | VXLAN | All-Active Multihoming | FortiGate HA**
 
-## Project Overview
 
 I designed and tested a data center network using a 2-spine, 4-leaf architecture with NVIDIA Cumulus Linux. The goal was to provide resilient host connectivity, maintain network availability during link or switch failures, and ensure inter-zone connectivity during firewall failover.
 
